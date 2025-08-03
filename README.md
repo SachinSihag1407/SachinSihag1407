@@ -1,3 +1,4 @@
+[![MasterHead](https://in.pinterest.com/pin/10696117860071810/)]
 # 💫 Hi 👋, I'm Sachin Sihag  
 👨‍💻 I'm a CSE undergrad who enjoys writing backend code, building APIs, and learning everything tech.
 
