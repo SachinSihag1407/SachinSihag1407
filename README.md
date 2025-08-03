@@ -1,4 +1,4 @@
-[![MasterHead](https://in.pinterest.com/pin/10696117860071810/)]
+![MasterHead](./github-header-banner.png)
 # 💫 Hi 👋, I'm Sachin Sihag  
 👨‍💻 I'm a CSE undergrad who enjoys writing backend code, building APIs, and learning everything tech.
 
