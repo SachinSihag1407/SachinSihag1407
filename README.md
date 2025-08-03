@@ -1,7 +1,7 @@
 ![MasterHead](./github-header-banner.png)
 # 💫 Hi 👋, I'm Sachin Sihag  
 👨‍💻 I'm a CSE undergrad who enjoys writing backend code, building APIs.
-<img align="right" alt="Coding" width="270" height = "250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNsNWF4N3EyNG9wYjBiN3FoNnFkYWtidmdxOGVqMWIzenRudmR6eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif">
+<img align="right" alt="Coding" width="270" height = "220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNsNWF4N3EyNG9wYjBiN3FoNnFkYWtidmdxOGVqMWIzenRudmR6eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif">
 
 
 
