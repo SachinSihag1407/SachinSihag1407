@@ -6,8 +6,7 @@
 
 
 📍 Currently pursuing B.Tech in Computer Science at IIIT Agartala (2022–2026)  
-💼 Actively exploring: Node.js | Express.js | MongoDB | ReactJS | TailwindCSS | JavaScript | Cloud & Databases  
-🌐 Building cool projects like [Portfolio](https://sachin-portfolio-seven.vercel.app/), [Blog App](https://blog-app-rust-nine.vercel.app/), and [Periodic Table](https://periodic-table-lime.vercel.app/)
+💼 Actively exploring: Node.js | Express.js | MongoDB | ReactJS | TailwindCSS | JavaScript | Cloud & Databases   
 
 📫 Reach out to me: sachinsihag1407@gmail.com  
 🔗 [GitHub](https://github.com/SachinSihag1407) • [LinkedIn](https://www.linkedin.com/in/sachin-sihag-ba81ba257/) • [LeetCode](https://leetcode.com/u/sachin_1407/)
